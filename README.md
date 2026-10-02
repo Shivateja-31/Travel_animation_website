@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Discover Paris: Your Way 🗼✨
 
-# Run and deploy your AI Studio app
+An interactive, beautifully animated travel experience that guides you through the breathtaking sights and hidden gems of Paris. Scroll through stunning visual narratives and explore the City of Light like never before!
 
-This contains everything you need to run your app locally.
+## Features 🚀
+- **Scroll Animations**: Dynamic visuals that respond to your scrolling.
+- **Beautiful UI**: Modern, sleek interface built with React and Tailwind CSS.
+- **Vite Setup**: Fast and optimized development environment.
 
-View your app in AI Studio: https://ai.studio/apps/eb6d9015-b2e6-441b-afd5-af02e092244a
+## Run Locally 💻
 
-## Run Locally
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Shivateja-31/Travel_animation_website.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack 🛠️
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
