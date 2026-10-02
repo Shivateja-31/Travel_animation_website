@@ -1,0 +1,6 @@
+{
+  "name": "Discover Paris — Paris, Your Way",
+  "description": "Explore the city of lights through iconic landmarks, hidden streets, unforgettable food, and moments worth remembering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
